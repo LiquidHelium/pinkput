@@ -223,7 +223,6 @@ chrome.runtime.onInstalled.addListener(details => {
   }
 });
 
-
 // add open pinboard to browser action right click menu
 chrome.contextMenus.create({
   title    : 'Open Pinboard',
