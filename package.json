@@ -1,25 +1,30 @@
 {
-  "name": "pinput",
-  "description": "Light-weight chrome extension for Pinboard.",
+  "name": "pinkput",
+  "description": "Light-weight chrome extension for Pinboard. Fork of pinput by @1000ch & @t32k",
   "scripts": {
     "test": "gulp test",
     "postinstall": "bower install"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/1000ch/pinput.git"
+    "url": "git://github.com/LiquidHelium/pinkput.git"
   },
   "keywords": [
     "pinboard"
   ],
   "author": {
+    "name": "LiquidHelium",
+    "email": "andrew@lqdh.net",
+    "url": "http://lqdh.net/"
+  },
+  "contributors": {
     "name": "1000ch",
     "email": "shogo.sensui@gmail.com",
     "url": "https://github.com/1000ch"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/1000ch/pinput/issues"
+    "url": "https://github.com/LiquidHelium/pinkput/issues"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.6",

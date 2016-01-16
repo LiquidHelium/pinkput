@@ -1,6 +1,6 @@
-# Pinput [![Build Status](https://travis-ci.org/1000ch/pinput.svg?branch=master)](https://travis-ci.org/1000ch/pinput) [![devDependency Status](https://david-dm.org/1000ch/pinput/dev-status.svg)](https://david-dm.org/1000ch/pinput#info=devDependencies)
+# Pinkput
 
-Light-weight chrome extension for [Pinboard](http://pinboard.in/).
+Light-weight chrome extension for [Pinboard](http://pinboard.in/). A Fork of pinput by @1000ch & @t32k that adds some small features and turns it pink.
 
 ![](assets/tile.png)
 
@@ -29,7 +29,9 @@ You need to set **Pinboard API token** on setting page before using this extensi
 
 ## License
 
-Copyright [@1000ch](https://github.com/1000ch)
+Pinkput Copyright [@LiquidHelium](https://github.com/LiquidHelium)
+
+Pinput Copyright [@1000ch](https://github.com/1000ch)
 
 Icons by [@t32k](https://github.com/t32k)
 

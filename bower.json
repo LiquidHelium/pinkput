@@ -1,10 +1,11 @@
 {
-  "name": "pinput",
+  "name": "pinkput",
   "homepage": "https://github.com/1000ch/pinput",
   "authors": [
+    "LiquidHelium <andrew@lqdh.net>",
     "1000ch <shogo.sensui@gmail.com>"
   ],
-  "description": "Light-weight chrome extension for Pinboard.",
+  "description": "Light-weight chrome extension for Pinboard. Fork of pinput by @1000ch & @t32k",
   "private": "true",
   "ignore": [
     "**/.*",

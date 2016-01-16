@@ -1,7 +1,7 @@
 export default {
-  authToken        : 'pinput_authToken',
-  isAuthenticated  : 'pinput_isAuthenticated',
-  defaultPrivate   : 'pinput_defaultPrivate',
-  defaultReadLater : 'pinput_defaultReadLater',
-  useTagSuggestion : 'pinput_useTagSuggestion'
+  authToken        : 'pinkput_authToken',
+  isAuthenticated  : 'pinkput_isAuthenticated',
+  defaultPrivate   : 'pinkput_defaultPrivate',
+  defaultReadLater : 'pinkput_defaultReadLater',
+  useTagSuggestion : 'pinkput_useTagSuggestion'
 };
